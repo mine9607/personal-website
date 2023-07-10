@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Sunday-font";
+  src: url(./assets/fonts/Sunday\ Regular.ttf);
+}
+
+#title {
+  background-color: aquamarine;
+}
+
+.text {
+  color: black;
+  font-family: "Pacifico", cursive;
+  font-size: 4rem;
+}
+
+.sub-text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.intro-container {
+  background-color: #ffce6d;
+}
+
+.sun-container {
+  display: flex;
+  justify-content: end;
+}
+
+.flower-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f6f6e9;
+}
+
+.body-container {
+  background-color: #f6f6e9;
+}
+
+.contact-container {
+  background-color: #d1e9d2;
+}
+
+h1.text {
+  font-family: "Sunday-font";
+}
+
+h2.text {
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
